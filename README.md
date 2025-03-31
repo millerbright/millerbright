@@ -56,6 +56,22 @@
   <a href="https://github.com/DanteBartel/HK232_Web_Nh-m_18_BTL">Main Source Code</a>
 </p>
 
+**3.** 🪙 **Project: Cryptocurrency Market Information System - Coin price**
+- `Coin-price-be-go` is a backend system designed to assist users in tracking cryptocurrency market data, such as spot prices, futures prices, and klines, using APIs from Binance, CoinMarketCap, and CoinGecko. It enables the creation of price fluctuation notification triggers, offering an efficient crypto management and trading experience.
+- 🛠 Tech Stack: Backend: Golang (Framework: Gin); Database: MongoDB; API & Test: Swaggo, Testify, Postman; Version Control: Git, GitHub; Enhancement: Docker, DockerHub, DockerCompose, Mailjet, MomoAPI, BinanceAPI, CoinGecko, CoinMarketCap.
+- Features:
+  `Coin-price-be-go` offers practical features: users can register, log in (including via Google), and manage accounts with options like password changes, profile updates, or account deletion; admins oversee the system by viewing, deleting, banning/unbanning users, and tracking payment history; real-time crypto market data is available, including spot prices, futures, funding rates, klines, and market caps; users can set up price fluctuation triggers, with features to create, delete, start/stop triggers, and support for advanced indicators and new/delisted symbols; payment integration via Momo enables VIP upgrades through transaction initiation, status checks, and confirmation.
+- `Coin-price-be-go` is a robust backend solution, connecting users to the crypto market with modern technology and optimized features.
+
+- 📌 GitHub Repo:
+<p align="center">
+  <a href="https://github.com/dath-241">Project Overview</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/dath-241/coin-price-be-go">Coin Price BE Go</a>
+</p>
+
 🛠 MORE (Update later...)
 
 ## 📌 Projects I'm Working On
