@@ -33,13 +33,28 @@
   
 - 📌 GitHub Repo:
 <p align="center">
-  <a href="https://github.com/millerbright/Academic_Management_System">Project Information</a>
+  <a href="https://github.com/millerbright/Academic_Management_System">Project Information and Demo </a>
 </p>
 
 <p align="center">
   <a href="https://github.com/NguyenVu04/BTL">Main Source Code</a>
 </p>
 
+**2.** 🎓 **Project: BookHaven WebSite - Paradise for Book Lovers - BHW**
+- BookHaven is an e-commerce platform for books, offering a convenient shopping experience. Inspired by Fahasa, it features an intuitive interface for browsing, searching, and buying books, with account creation for saving favorites and tracking orders.
+- 🛠 Tech Stack: Frontend: HTML, CSS (Framework: Tailwind CSS), JavaScript; Backend: PHP (Core); Database: MySQL with MySQLi; API & Test: Postman; Version Control: GitHub; Enhancement: jQuery.
+- Features:
+  `BookHaven` offers a range of features based on access levels: `guests` can view the homepage, recommended books, browse the full book collection, and register or log in to unlock more; `users`, once logged in, can manage their favorite books by saving them with the "Favorite" button, edit personal details like name and email, and track orders; `admins`, with the highest privileges, can add, edit, or delete book information, manage additional book images, and view or delete user accounts as needed, ensuring efficient system management.
+- BookHaven connects book lovers and businesses with an optimized experience.
+
+- 📌 GitHub Repo:
+<p align="center">
+  <a href="https://github.com/millerbright/BookHaven_Website">Project Information & DEMO</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/DanteBartel/HK232_Web_Nh-m_18_BTL">Main Source Code</a>
+</p>
 
 🛠 MORE (Update later...)
 
