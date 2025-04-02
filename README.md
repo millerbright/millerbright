@@ -4,24 +4,29 @@
 
 🎓 Computer Science student at **Ho Chi Minh City University of Technology (HCMUT, VNU-HCM)**.
 <br>
-💡 I love coding, problem-solving, and building cool stuff!
+💡 I love coding, algorithmic thinking, and building cool stuff!
 <br>
 🌱 Passionate about learning **Backend & Frontend Development**.  
 🔹 **Backend**: Golang, PHP, Nodejs  
-🔹 **Frontend**: HTML, CSS (Tailwind, Bootstrap), JS (React)   
+🔹 **Frontend**: HTML, CSS (Tailwind, Bootstrap), JavaScript (React)   
 🔹 **Databases**: MongoDB, MySQL  
 🔍 Currently improving my skills through projects and open-source contributions.  
 
 
 ## 🚀 What I'm Learning  
 - **Building full-stack web applications**  
-- **Exploring REST APIs & authentication systems**  
-- **Improving UI/UX skills with Tailwind & Bootstrap, React**  
+- **Exploring REST APIs & authentication systems**
+- **Payment Integration**: Momo, online payments 
+- **Improving UI/UX skills with Tailwind, Bootstrap & React**  
 - **Version Control**: Git & GitHub  
-
+- **Database Management**: MongoDB & MySQL
+- **Deployment**: Docker
+- **Software Security**: JWT, OAuth2, API protection
+- **Software Testing**: Unit test
+  
 ## 🚀 Projects I've Built
 
-🛠 **Building a personal portfolio website** with React & TailwindCSS  
+🛠 **Building a personal portfolio website** with Tailwind, Bootstrap & React  
 📖 **Exploring backend authentication** with JWT & OAuth2  
 📖 **Exploring data structures & algorithms** through LeetCode & Codeforces  
 
@@ -70,6 +75,21 @@
 
 <p align="center">
   <a href="https://github.com/dath-241/coin-price-be-go">Coin Price BE Go</a>
+</p>
+
+**4.** 🖨️ **Project: A SMART PRINTING SERVICE FOR STUDENTS AT HCMUT - SSPS**
+- `The HCMUT-SSPS (HCMUT Student Smart Printing Service)` is an innovative solution designed to modernize and optimize the printing process for students at Ho Chi Minh City University of Technology. With the integration of modern technologies like MongoDB, ExpressJS, React, and PayOS, the system simplifies the printing order process, document management, and online payment. It also ensures real-time print status management, cashless payment support, and an intuitive user interface.
+- 🛠 Tech Stack: Backend: Nodejs (ExpressJS); Database: MongoDB; Payment Integration: PayOS; Development Tools: Postman, Draw.io, Figma, GitHub
+- Features:
+  The `HCMUT-SSPS` system offers a variety of features to enhance the printing experience for students and administrators. With Real-time Print Status, users can easily track the progress of their print jobs as they are being processed. The `User-Friendly Interface` ensures a simple and intuitive experience for both students and administrative staff, making navigation through the system effortless. `Online Payment Integration` supports cashless transactions, providing a secure and convenient way for students to make payments through PayOS. The `Printing History` Management feature allows users to view and manage their print and transaction history for better tracking and accountability. The `Admin Panel for SPSO` gives administrators the ability to manage printers, configure system settings, and generate reports. Finally, `Student Print Ordering` enables students to effortlessly place print orders, buy pages, and monitor the status of their print jobs, streamlining the entire process.
+
+- 📌 GitHub Repo:
+<p align="center">
+  <a href="https://github.com/millerbright/Smart_Printing_Service">Project Information & DEMO</a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/ngochidung2111/CNPM">Main Source Code</a>
 </p>
 
 🛠 MORE (Update later...)
